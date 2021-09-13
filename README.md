@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DevOps Build
 
 1. Open your GitHub account (Register if needed)
@@ -121,3 +122,6 @@ import org.joda.time.LocalTime;
 ```bash
 curl http://localhost:8080/greeting?name=Zoltan
 ```
+=======
+# devops-maven
+>>>>>>> 271fec9d4a1f000c65a2ac7fc12c2e16474dd1e3
